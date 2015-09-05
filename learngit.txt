@@ -3,3 +3,5 @@ Git is a free tool.
 Git is wildly used.
 Creating a new branch is quick.
 This is chaofeng branch.
+
+Git fetch.
